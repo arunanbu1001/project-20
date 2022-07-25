@@ -104,7 +104,15 @@ for (var i = 0; i < array.length; i++) {
 
   table.setAttribute("border", "solid 1px");
   table.setAttribute('style', 'width: 100%');
-  // tr.setAttribute('text_align', 'center');
+  tr.setAttribute('text_align', 'center');
+  td1.setAttribute('text-align', 'center');
+  td2.setAttribute('text-align', 'center');
+  td3.setAttribute('text-align', 'center');
+  td4.setAttribute('text-align', 'center');
+  td5.setAttribute('text-align', 'center');
+  td6.setAttribute('text-align', 'center');
+  td7.setAttribute('text-align', 'center');
+  td8.setAttribute('text-align', 'center');
    
   table.appendChild(tr);
 }
